@@ -4,7 +4,7 @@ I'm a 3rd Year Computer Engineering Student at Ege University with a passion for
 
 - 🔭 I’m currently building my skills in both **mobile (Kotlin)** and **back-end development**.
 - 🌱 I’m always learning and exploring new technologies.
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/yusuf-kerem-şahan-1b2807317/)**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/yusuf-kerem-%C5%9Fahan-1b2607317/)**
 - 😄 Fun fact: I enjoy playing the clarinet.
 
 ---
