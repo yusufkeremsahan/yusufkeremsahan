@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Yusuf Kerem!
 
-I'm a 3rd Year Computer Engineering Student at Ege University with a passion for building mobile applications and clean code. I love bringing ideas to life using Java and Kotlin.
+I'm a 3rd Year Computer Engineering Student at Yildiz Technical University with a passion for building mobile applications and clean code. I love bringing ideas to life using Java and Kotlin.
 
 - 🔭 I’m currently building my skills in both **mobile (Kotlin)** and **back-end development**.
 - 🌱 I’m always learning and exploring new technologies.
