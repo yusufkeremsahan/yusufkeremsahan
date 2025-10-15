@@ -1,15 +1,14 @@
 ### Hi there 👋 I'm Yusuf Kerem!
 
-I'm a 3rd Year Computer Engineering Student at Yildiz Technical University with a passion for building mobile applications and clean code. I love bringing ideas to life using Java and Kotlin.
+I'm a 3rd Year Computer Engineering Student at **Yildiz Technical University** with a passion for building web applications.
+- I’m currently building my skills in both **front-end development** and **back-end development**.
+- I’m always learning and exploring new technologies.
+- How to reach me: **[LinkedIn](https://www.linkedin.com/in/yusuf-kerem-%C5%9Fahan-1b2607317/)**
 
-- 🔭 I’m currently building my skills in both **mobile (Kotlin)** and **back-end development**.
-- 🌱 I’m always learning and exploring new technologies.
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/yusuf-kerem-%C5%9Fahan-1b2607317/)**
-- 😄 Fun fact: I enjoy playing the clarinet.
 
 ---
 
-### 🛠️ My Tech Stack & Tools
+### My Tech Stack & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
