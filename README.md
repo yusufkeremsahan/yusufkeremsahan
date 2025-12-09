@@ -1,8 +1,7 @@
-### Hi there 👋 I'm Yusuf Kerem!
+### Hi👋 I'm Yusuf Kerem!
 
 I'm a 3rd Year Computer Engineering Student at **Yildiz Technical University** with a passion for building web applications.
-- I’m currently building my skills in both **front-end development** and **back-end development**.
-- I’m always learning and exploring new technologies.
+- I’m building my skills in both **front-end development** and **back-end development**.
 - How to reach me: **[LinkedIn](https://www.linkedin.com/in/yusuf-kerem-%C5%9Fahan-1b2607317/)**
 
 
